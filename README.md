@@ -10,7 +10,7 @@ Start your development with a Free Tailwind CSS and Svelte UI Kit and Admin. Let
 
 Notus Svelte is Free and Open Source. It features multiple HTML and Svelte elements and it comes with dynamic components for Svelte.
 
-It is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=ns-github-readme) by Creative Tim, and it is build with both presentation pages, and pages for an admin dashboard.
+It is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=ns-github-readme) by Creative Tim, and it is built with both presentation pages, and pages for an admin dashboard.
 
 Speed up your web development with a beautiful product made by <a href="https://creative-tim.com/" target="_blank">Creative Tim </a>.
 If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
